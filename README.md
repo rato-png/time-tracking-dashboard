@@ -8,7 +8,7 @@ The project is hosted by a Github Pages domain, so you can click on the image be
 
 >*It works in mobile too!*
 
-[![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)](https://magnic0.github.io/time-tracking-dashboard/)
+[![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)](https://rato-png.github.io/time-tracking-dashboard/)
 
 If you want to see my solution page in the Frontend Mentor website, you can click [right here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-sass-javascript-FpPpuUEJxE)!
 
